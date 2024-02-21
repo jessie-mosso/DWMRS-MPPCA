@@ -2,7 +2,7 @@
 % Author: Jessie Mosso 
 % Last update: 08/2022
 % Reference: https://doi.org/10.48550/arXiv.2204.04266
-% Copyright © 2022 jessie-mossoo
+% Copyright © 2022 jessie-mosso
 
 %%
 clear; clc; close all;
